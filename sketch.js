@@ -33,7 +33,7 @@ function draw(){
     noStroke();
     textSize(35);
     fill("green");
-    text("Time: "+ hour + ":00",width - 600,50);
+    text("Time: "+ hour + ":00 EDT",width - 600,50);
 
 }
 
